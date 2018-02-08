@@ -1,0 +1,32 @@
+
+.vid {
+    margin-top: 5%;
+    width: 95%;
+    height: 100%;
+    padding: 16px 0 16px 16px;
+}
+.vid .vid_item {
+    display: block;
+    padding: 50px 17px 0 17px;
+    margin-left: 25%;
+}
+
+
+
+@media screen and (max-width: 1060px) {
+
+    .vid_item {
+        margin-left: 15%;
+        margin-right: 15%;
+        width: 300px;
+        height: 225px;
+    }
+}
+@media screen and (max-width: 500px) {
+
+    .vid .vid_item {
+        margin-right: 0;
+        margin-left: 0;
+        width: 85%;
+    }
+}
