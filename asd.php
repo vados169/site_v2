@@ -7,4 +7,3 @@
  */
 echo "pidar";
 ?>
-asdfaslhdjkl;a
